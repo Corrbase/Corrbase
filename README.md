@@ -16,3 +16,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+<center>
+  https://github-readme-stats.vercel.app/api?username=corrbase&show_icons=true&theme=dark
+  </center>
