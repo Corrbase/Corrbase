@@ -17,7 +17,4 @@
   <img alt="Firebase" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<center>
-  [![Website](https://img.shields.io/badge/Website-boolfalse.com-03A062?style=flat-square&labelColor=fff)](https://boolfalse.com)
-
-  </center>
+[![Website](https://img.shields.io/badge/Website-boolfalse.com-03A062?style=flat-square&labelColor=fff)](https://boolfalse.com)
