@@ -19,4 +19,6 @@
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+![](https://komarev.com/ghpvc/?username=corrbase&color=blue)
+
 ![](https://github-readme-stats.vercel.app/api?username=corrbase&show_icons=true&theme=dark)
